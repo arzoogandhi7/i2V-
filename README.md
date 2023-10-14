@@ -8,29 +8,6 @@ Dataset: We’ve been provided with a dataset of vehicle logos and we have to id
 Platform used: Google Colab
 
 Procedure:
-Data Import and Preprocessing
-Data Augmentation
-•Loading Training and Validation Data
-Feature Engineering (if necessary)
-Labelling Training and Validation Data
-Model Building
-Hyperparameter Tuning
-Model Evaluation
-Plotting Metrics
-Training the model
-Model checkpointing and early stopping
-Testing the model
-
-
-Challenges faced:
-•	Imbalanced datasets
-•	Data pre-processing
-•	Overfitting of data
-•	Model Evaluation
- 
-Solution:
-•	Collecting high-quality data.
-•	Applying resizing, cropping and augmentation to make data consistent.
-•	Experimenting with different model architectures to find the best fit for data.
+Data Import and Preprocessing, Data Augmentation, Loading Training and Validation Data, Feature Engineering (if necessary), Labelling, Training and Validation Data, Model Building, Hyperparameter Tuning, Model Evaluation, Plotting Metrics, Training the model, Model checkpointing and early stopping, Testing the model.
 Access the complelet code at : https://colab.research.google.com/drive/1tSrRVg6Y4juJXGzEal_woXxy_fXZfpel?usp=sharing
 
